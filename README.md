@@ -1,1 +1,1 @@
-# ROCKETRY_STIMULATION
+Rocketry-Aerospace-Simulation-Workshop
